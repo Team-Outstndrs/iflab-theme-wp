@@ -30,7 +30,7 @@
       <img src="https://picsum.photos/800/400" alt="thumbnail" class="w-full h-full object-cover rounded-xl">
       <h2 class="absolute bottom-4 left-4 text-2xl font-bold text-white">タイトル</h2>
     </div>
-    <div class="p-4 md:rounded-bl-3xl md:rounded-none rounded-3xl bg-sky-200 md:mt-0 mt-4">
+    <div class="p-4 rounded-3xl bg-sky-200 md:mt-0 mt-4">
       <h1 class="text-2xl lg:text-3xl font-bold">フリースクール</h1>
       <p class="pt-2 text-gray-700">説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ</p>
       <a href="" class="">
@@ -38,7 +38,7 @@
         </button>
       </a>
     </div>
-    <div class="p-4 md:rounded-none rounded-3xl bg-sky-200 md:mt-0 mt-4">
+    <div class="p-4 rounded-3xl bg-sky-200 md:mt-0 mt-4">
       <h1 class="text-2xl lg:text-3xl font-bold">ペアトレ講座</h1>
       <p class="pt-2 text-gray-700">説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ</p>
       <a href="" class="">
@@ -46,7 +46,7 @@
         </button>
       </a>
     </div>
-    <div class="p-4 md:rounded-br-3xl md:rounded-none rounded-3xl bg-sky-200 md:mt-0 mt-4">
+    <div class="p-4 rounded-3xl bg-sky-200 md:mt-0 mt-4">
       <h1 class="text-2xl lg:text-3xl font-bold">講演会</h1>
       <p class="pt-2 text-gray-700">説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ説明はここ</p>
       <a href="" class="">
